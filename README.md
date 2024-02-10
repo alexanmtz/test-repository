@@ -1,2 +1,2 @@
 # test-repository
-Just a test repository with more new test issues
+Just another test repository with more new test issues
